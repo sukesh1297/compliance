@@ -1,3 +1,3 @@
 # compliance
 
-code related to compliance iss
+code related to compliance issue
